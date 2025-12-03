@@ -35,3 +35,7 @@ Através da criação dos scripts neste projeto, foram praticados os seguintes c
 *   `par_impar.py`: Recebe um número inteiro e verifica se ele é par ou ímpar.
 *   `media_notas.py`: Calcula a média aritmética de três notas fornecidas pelo usuário.
 *   `repet_txt.py`: Solicita uma base e um expoente e calcula a potência.
+
+## 🔗 Links
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEDROPAULONETO/k8s-projeto1-app-base/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulosneto/)
